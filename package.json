@@ -1,0 +1,30 @@
+{
+  "name": "nomad-nodejs-zoom",
+  "version": "1.0.0",
+  "description": "Zooooom 을 클론하며 Vanilla JS, NodeJS, WebSockets, SocketIO, WebRTC  등에 대해 배우는 저장소입니다.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaedie/NomadCoders-2.2.NodeJS-JoomClone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "bugs": {
+    "url": "https://github.com/Chaedie/NomadCoders-2.2.NodeJS-JoomClone/issues"
+  },
+  "homepage": "https://github.com/Chaedie/NomadCoders-2.2.NodeJS-JoomClone#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.6",
+    "@babel/core": "^7.18.6",
+    "@babel/node": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "pug": "^3.0.2"
+  }
+}
